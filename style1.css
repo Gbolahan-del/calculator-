@@ -66,7 +66,24 @@ color:black;
 }
 button:nth-child(1):hover, button:nth-child(2):hover, button:nth-child(3):hover{
 background:#cfcfcf;
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #d3d3d3; /* Light Grey */
+    color: #003366; /* Deep Blue */
+    font-size: 16px;
+    border-top: 2px solid #003366;
+}
 
+footer p {
+    margin: 5px 0;
+}
+
+footer strong {
+    color: #001f5c; /* Darker Blue */
+    font-weight: bold;
+}
 
 
 
